@@ -115,5 +115,5 @@ Tạo repo mới trên GitHub và push code lên.
 - Cập nhật `BACKEND_CORS_ORIGINS` trong `.env` để cho phép domain frontend của bạn.
 
 ---
-**Author**: [Tên của bạn]
+**Author**: phimanh
 **Project**: Amazon Clone Pro - UET Advanced Coding Assignment
