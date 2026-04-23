@@ -1,7 +1,7 @@
 # Advanced E-commerce Backend
 
 
-## 🚀 Tính năng độc lạ (Pro Features)
+## 🚀 Feature
 
 - **Fuzzy Search (SQLite FTS5)**: Tìm kiếm sản phẩm thông minh, hỗ trợ sửa lỗi gõ sai và tìm kiếm theo tiền tố dựa trên engine Full-Text Search tích hợp sâu vào Database.
 - **Real-time WebSockets**: Hệ thống thông báo đơn hàng và cập nhật Flash Sale theo thời gian thực (Bi-directional communication).
